@@ -2,6 +2,15 @@
 
 ### 🌟 About Me
 
+<div align="left">
+  <a href="mailto:cxyan04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" />
+  </a>
+  <a href="https://linkedin.com/in/chenxin-yan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
+  </a>
+</div>
+
 - 🎓 I'm an undergraduate at **NYU**, studying **Computer Science** and **Philosophy**.
 - 💻 As a full-stack developer with a focus on backend development, I enjoy designing and building impactful web applications.
 - 🎶 Outside of tech, I pour my creativity into music production, sound design, and experimenting across diverse genres.
@@ -40,22 +49,6 @@
 - Data structures and algorithms
 
 ---
-
-### 📫 Contact Me
-
-<div align="left">
-  <a href="https://discord.com/users/chenxin_yan">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord logo" />
-  </a>
-  <a href="mailto:cxyan04@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-  <a href="https://linkedin.com/in/chenxin-yan">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-</div>
-
----  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chenxin-yan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
