@@ -1,12 +1,19 @@
 # Hi there, I'm [Chenxin Yan](https://github.com/chenxin-yan) 👋
 
-<div align="center">
+<div align="left">
+  <img href="www.linkedin.com/in/chenxin-yan" src="https://img.shields.io/badge/-chenxin-yan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/chenxin-yan" />
+  <img href="mailto:cxyan04@gmail.com" src="https://img.shields.io/badge/-cxyan04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cxyan04@gmail.com" />
+</div>
+
+<div align="right">
   <img src="https://img.shields.io/github/followers/chenxin-yan" />
   <img src="https://komarev.com/ghpvc/?username=chenxin-yan" />
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/chenxin-yan)](www.linkedin.com/in/chenxin-yan)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cxyan04@gmail.com)](mailto:cxyan04@gmail.com)
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-chenxin-yan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/chenxin-yan)](www.linkedin.com/in/chenxin-yan)
+[![Gmail Badge](https://img.shields.io/badge/-cxyan04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cxyan04@gmail.com)](mailto:cxyan04@gmail.com)
 
 ### 🌟 About Me
 
