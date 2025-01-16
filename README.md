@@ -1,12 +1,18 @@
 # Hi there, I'm [Chenxin Yan](https://github.com/chenxin-yan) 👋
 
-![](https://komarev.com/ghpvc/?username=chenxin-yan)
+<div align="center">
+  <img src="https://img.shields.io/github/followers/chenxin-yan" />
+  <img src="https://komarev.com/ghpvc/?username=chenxin-yan" />
+</div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/chenxin-yan)](www.linkedin.com/in/chenxin-yan)
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cxyan04@gmail.com)](mailto:cxyan04@gmail.com)
 
 ### 🌟 About Me
 
 - 🎓 I'm an undergraduate at **NYU**, studying **Computer Science** and **Philosophy**.
-- 💻 As a full-stack developer with a focus on backend development, I enjoy designing and building impactful web applications.
-- 🎶 Outside of tech, I pour my creativity into music production, sound design, and experimenting across diverse genres.
+- 💻 As a full-stack developer with a focus on backend development, I enjoy designing and building impactful web applications. (I use Neovim, btw)
+- 🎶 Outside of tech, I pour my creativity into music production and sound design, exploring various music genres.
 - 🚀 I'm currently pursuing a career in **Software Engineering** while creating music that I love in my free time.
 
 ---
