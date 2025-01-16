@@ -1,13 +1,19 @@
 # Hi there, I'm [Chenxin Yan](https://github.com/chenxin-yan) 👋
 
-<div align="left">
-  <img href="www.linkedin.com/in/chenxin-yan" src="https://img.shields.io/badge/-chenxin%-yan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/chenxin-yan" />
-  <img href="mailto:cxyan04@gmail.com" src="https://img.shields.io/badge/-cxyan04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cxyan04@gmail.com" />
-</div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <a href="https://www.linkedin.com/in/chenxin-yan" target="_blank">
+      <img src="https://img.shields.io/badge/-chenxinyan-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:cxyan04@gmail.com">
+      <img src="https://img.shields.io/badge/-cxyan04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </div>
 
-<div align="right">
-  <img src="https://img.shields.io/github/followers/chenxin-yan" />
-  <img src="https://komarev.com/ghpvc/?username=chenxin-yan" />
+  <div>
+    <img src="https://img.shields.io/github/followers/chenxin-yan" alt="GitHub Followers" />
+    <img src="https://komarev.com/ghpvc/?username=chenxin-yan" alt="Profile Views" />
+  </div>
 </div>
 
 ### 🌟 About Me
