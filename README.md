@@ -1,9 +1,9 @@
 # Hi there, I'm [Chenxin Yan](https://github.com/chenxin-yan) 👋
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+<div style="display: flex;">
   <div>
     <a href="https://www.linkedin.com/in/chenxin-yan" target="_blank">
-      <img src="https://img.shields.io/badge/-chenxinyan-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/-chenxin\-yan-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:cxyan04@gmail.com">
       <img src="https://img.shields.io/badge/-cxyan04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
