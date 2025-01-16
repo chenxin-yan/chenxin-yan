@@ -1,8 +1,5 @@
 # Hi there, I'm Chenxin Yan 👋
-
-### 🌟 About Me
-
-<div align="left">
+<div align="center">
   <a href="mailto:cxyan04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail logo" />
   </a>
@@ -10,6 +7,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
   </a>
 </div>
+
+### 🌟 About Me
 
 - 🎓 I'm an undergraduate at **NYU**, studying **Computer Science** and **Philosophy**.
 - 💻 As a full-stack developer with a focus on backend development, I enjoy designing and building impactful web applications.
