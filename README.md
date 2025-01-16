@@ -1,7 +1,7 @@
 # Hi there, I'm [Chenxin Yan](https://github.com/chenxin-yan) 👋
 
 <div align="left">
-  <img href="www.linkedin.com/in/chenxin-yan" src="https://img.shields.io/badge/-chenxin-yan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/chenxin-yan" />
+  <img href="www.linkedin.com/in/chenxin-yan" src="https://img.shields.io/badge/-chenxin%-yan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/chenxin-yan" />
   <img href="mailto:cxyan04@gmail.com" src="https://img.shields.io/badge/-cxyan04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cxyan04@gmail.com" />
 </div>
 
