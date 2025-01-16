@@ -1,6 +1,6 @@
-j# Hi there, I'm [Chenxin Yan](https://github.com/chenxin-yan) 👋
+# Hi there, I'm [Chenxin Yan](https://github.com/chenxin-yan) 👋
 
-<div style="display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
   <div>
     <a href="https://www.linkedin.com/in/chenxin-yan" target="_blank">
       <img src="https://img.shields.io/badge/-chenxinyan-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
