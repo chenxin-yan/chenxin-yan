@@ -3,8 +3,8 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=chenxin-yan" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/chenxin-yan" alt="GitHub Followers" />
-  </a> <a href="mailto:cxyan04@gmail.com">
-  <img src="https://img.shields.io/badge/-cxyan04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:cxyan04@gmail.com">
+    <img align="right" src="https://img.shields.io/badge/-cxyan04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
 </div align="left">
 
