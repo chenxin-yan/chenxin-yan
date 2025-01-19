@@ -3,8 +3,8 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=chenxin-yan" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/chenxin-yan" alt="GitHub Followers" />
-  <a href="mailto:cxyan04@gmail.com">
-    <img align="right" src="https://img.shields.io/badge/-cxyan04@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.linkedin.com/in/chenxin-yan" target="_blank">
+      <img align="right" src="https://img.shields.io/badge/-LinkedIn: chenxinyan-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div align="left">
 
@@ -12,7 +12,7 @@
 
 - 🎓 I'm an undergraduate at **NYU**, studying **Computer Science** and **Philosophy**.
 - 💻 As a full-stack developer with a focus on backend development, I enjoy designing and building impactful web applications. (I use Neovim, btw)
-- 🎶 Outside of tech, I pour my creativity into music production and sound design, exploring various music genres.
+- 🎶 Outside of tech, I pour my creativity into **Music Production** and **Sound Design**, exploring various music genres.
 - 🚀 I'm currently pursuing a career in **Software Engineering** while creating music that I love in my free time.
 
 ---
