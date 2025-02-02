@@ -73,5 +73,3 @@
 - Developing scalable applications with Java SpringBoot
 - Mastering DevOps methodologies and tools
 - Data structures and algorithms
-
----
