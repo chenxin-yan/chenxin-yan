@@ -3,8 +3,8 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=chenxin-yan" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/chenxin-yan" alt="GitHub Followers" />
-  <a href="https://www.linkedin.com/in/chenxin-yan" target="_blank">
-      <img align="right" src="https://img.shields.io/badge/-LinkedIn: chenxinyan-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.chenxinyan.dev" target="_blank">
+      <img align="right" src="https://img.shields.io/badge/Website-chenxinyan.dev-blue" alt="LinkedIn" />
   </a>
 </div align="left">
 
