@@ -3,6 +3,7 @@
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=chenxin-yan" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/chenxin-yan" alt="GitHub Followers" />
+  <a href="https://wakatime.com/@1f5964d9-59e7-489f-aee5-8e4b79665836"><img src="https://wakatime.com/badge/user/1f5964d9-59e7-489f-aee5-8e4b79665836.svg" alt="Total time coded since Mar 5 2025" /></a>
   <a href="https://www.chenxinyan.dev" target="_blank">
       <img align="right" src="https://img.shields.io/badge/Website-chenxinyan.dev-blue" alt="LinkedIn" />
   </a>
