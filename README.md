@@ -1,10 +1,5 @@
 # Hi there, I'm [Chenxin Yan](https://github.com/chenxin-yan) 👋
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=chenxin-yan" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/chenxin-yan" alt="GitHub Followers" />
-</div>
-
 ### 🌟 About Me
 
 - 🎓 I'm an undergraduate at **NYU**, studying **Computer Science** and **Philosophy**.
