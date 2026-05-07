@@ -19,5 +19,5 @@
   <img height=200 align="center" src="https://github-readme-stats-rho-eosin.vercel.app/api/top-langs?username=chenxin-yan&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=catppuccin_mocha" />
 </a>
 <a href="https://github.com/chenxin-yan">
-<img src="https://github-readme-stats-rho-eosin.vercel.app/api/wakatime?username=chenxin-yan&layout=compact&custom_title=Weekly%20Coding%20Stats&hide_border=true&langs_count=8&theme=catppuccin_mocha" />
+<img src="https://github-readme-stats-rho-eosin.vercel.app/api/wakatime?username=chenxinyan&layout=compact&custom_title=Weekly%20Coding%20Stats&hide_border=true&langs_count=8&theme=catppuccin_mocha" />
 </a>
