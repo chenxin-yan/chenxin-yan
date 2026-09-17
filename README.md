@@ -4,15 +4,13 @@
 
 a shortlist of the things i built:
 
-- 🍞 [Crust](https://crustjs.com/) - a cool typescript framework for building CLIs on Bun
+- 🍞 [Crust](https://crustjs.com/) - a cool typescript framework for building CLIs for humans and agents
 - 🧬 [Mitome](https://mitome.sh/) (WIP) - a cool agent framework giving you all the primitives for building agent harness that runs everywhere
 - 🔍 [Gyst](https://github.com/chenxin-yan/gyst) (WIP) - a cool diff viewer that shows only what you need to see, for both agents and humans
 - 🎛️ [herdr-micro](https://github.com/chenxin-yan/herdr-micro) - a cool physical macropad deck for monitoring and controlling coding agents
 - 🏷️ [footnote.nvim](https://github.com/chenxin-yan/footnote.nvim) - a cool neovim plugin for working with markdown footnotes if you are still writing docs by hand like a moron
 
-find me on [x](https://x.com/chenxinyan04)
-
-check out my [dotfiles](https://github.com/chenxin-yan/nix-dotfiles) to learn more about how i use my computers. i use neovim btw. i use nixos btw. i use pi btw.
+find me on [x](https://x.com/chenxinyan04) and check out my [dotfiles](https://github.com/chenxin-yan/nix-dotfiles) to learn more about how i use my computers. i use neovim btw. i use nixos btw. i use pi btw.
 
 <picture>
   <img height="180" src="https://github-readme-stats-rho-eosin.vercel.app/api?username=chenxin-yan&show_icons=true&hide_border=true&theme=catppuccin_mocha" alt="GitHub stats" />
