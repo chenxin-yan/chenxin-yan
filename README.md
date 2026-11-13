@@ -6,7 +6,6 @@ a shortlist of the things i built:
 
 - 🍞 [Crust](https://crustjs.com/) - a cool typescript framework for building CLIs for humans and agents
 - 🧬 [Mitome](https://mitome.sh/) (WIP) - a cool agent framework giving you all the primitives for building agent harness that runs everywhere
-- 🔍 [Gyst](https://github.com/chenxin-yan/gyst) - a cool diff viewer that shows only what you need to see during code review with agents
 - 🎛️ [herdr-micro](https://github.com/chenxin-yan/herdr-micro) - a cool physical macropad deck for monitoring and controlling coding agents
 - 🏷️ [footnote.nvim](https://github.com/chenxin-yan/footnote.nvim) - a cool neovim plugin for working with markdown footnotes if you are still writing docs by hand like a moron
 
